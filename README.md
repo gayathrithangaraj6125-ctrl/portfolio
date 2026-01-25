@@ -33,7 +33,7 @@ Tamil Nadu State Board – 80%
 🔗 GitHub: (add link)
 
 ### 🧪 Smart Lab Equipment Tracker
-- Designed a system to track laboratory equipment availability and usage.
+- Designed a system to track laboratory equipment availability and usage.   
 **Tools:** Python, Database, HTML, CSS  
 🔗 GitHub: (add link)
 

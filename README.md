@@ -30,7 +30,7 @@ Tamil Nadu State Board – 80%
 ### 📊 Superstore Sales Data Visualization
 - Built interactive dashboards to analyze sales, profit, and regional trends.
 **Tools:** Power BI, Excel  
-🔗 GitHub: (add link)
+🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/Data-visualization-using-power-BI)
 
 ### 🧪 Smart Lab Equipment Tracker
 - Designed a system to track laboratory equipment availability and usage.   

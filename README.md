@@ -47,7 +47,7 @@ Tamil Nadu State Board – 80%
 - Scraped real-time cryptocurrency data such as prices and market details from web sources.
 - Processed and stored data for analysis and reporting.
 **Tools:** Python, Web Scraping, Pandas  
-🔗 GitHub: (add link)
+🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/crypto-currency-web-scrapping-)
 
 ### 🎓 Student Database Management System
 - Designed a database system to store and manage student details efficiently.

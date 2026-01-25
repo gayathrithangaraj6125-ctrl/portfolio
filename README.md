@@ -25,7 +25,7 @@ Tamil Nadu State Board – 80%
 - Extracted movie ratings and details using Python and Selenium.
 - Organized scraped data for analysis and visualization.  
 **Tools:** Python, Selenium, Pandas  
-🔗 GitHub: (add link)
+🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/movie-rating-web-scraping)
 
 ### 📊 Superstore Sales Data Visualization
 - Built interactive dashboards to analyze sales, profit, and regional trends.

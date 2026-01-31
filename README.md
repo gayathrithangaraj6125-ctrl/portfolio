@@ -55,7 +55,7 @@ Tamil Nadu State Board – 80%
 - Visualized key stats like matches, runs, average, strike rate, centuries, fifties, and more.
 - Filtered data per player and displayed interactive bar charts for performance insights.  
 **Tools:** Python, Pandas, Streamlit  
-🔗 GitHub: ()
+🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/Data-Science-Streamlit-project)
 
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.

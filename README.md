@@ -49,11 +49,13 @@ Tamil Nadu State Board – 80%
 **Tools:** Python, Web Scraping, Pandas  
 🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/crypto-currency-web-scrapping-)
 
-### 🎓 Student Database Management System
-- Designed a database system to store and manage student details efficiently.
-- Performed CRUD operations and ensured proper data organization.
-**Tools:** MySQL, SQL, Python / PHP  
-🔗 GitHub: (add link)
+
+### 🏏 Cricket Player Statistics Dashboard
+- Built an interactive dashboard to explore international cricket player performance.
+- Visualized key stats like matches, runs, average, strike rate, centuries, fifties, and more.
+- Filtered data per player and displayed interactive bar charts for performance insights.  
+**Tools:** Python, Pandas, Streamlit  
+🔗 GitHub: ()
 
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.

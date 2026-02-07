@@ -58,17 +58,14 @@ Tamil Nadu State Board – 80%
 🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/Data-Science-Streamlit-project)
 
 
-🎓 Student Record Analysis Dashboard
-
-Built an interactive dashboard to explore student academic performance using the Kaggle Students Performance dataset.
-
-Visualized key stats like Math, Reading, Writing scores, gender, ethnicity, parental education, lunch type, and test preparation course.
-
-Filtered data per student and displayed interactive bar charts for subject-wise performance and student details for insights.
+### 🎓 Student Record Analysis Dashboard
+- Built an interactive dashboard to explore student academic performance using the Kaggle Students Performance dataset.
+- Visualized key stats like Math, Reading, Writing scores, gender, ethnicity, parental education, lunch type, and test preparation course.
+- Filtered data per student and displayed interactive bar charts for subject-wise performance and student details for insights.
 
 Tools: Python, Pandas, Dash, Plotly
 
-🔗 GitHub: 
+🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/student-analysis-pyplot)
 
 
 ### 🍽 Canteen Management System (Ongoing)

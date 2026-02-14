@@ -67,12 +67,9 @@ Tools: Python, Pandas, Dash, Plotly
 
 🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/student-analysis-pyplot)
 
-
-**###📚 Library Book Demand Prediction App — Machine Learning Project**
+### 📚 Library Book Demand Prediction App — Machine Learning Project
 
 I built a **Library Book Demand Prediction App** that predicts book demand based on features like rating, pages, publish year, and review counts.
-
-
 This project helped me understand the complete ML workflow:
 Dataset → Model Training → Model Saving → Web App → Cloud Deployment.
 

@@ -68,6 +68,37 @@ Tools: Python, Pandas, Dash, Plotly
 🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/student-analysis-pyplot)
 
 
+📚 **Library Book Demand Prediction App — Machine Learning Project**
+
+Excited to share my end-to-end Machine Learning project — from data preprocessing to live deployment! 🚀
+
+I built a **Library Book Demand Prediction App** that predicts book demand based on features like rating, pages, publish year, and review counts.
+
+🔍 What this project includes:
+• Data cleaning and preprocessing
+• Model training using Scikit-learn
+• Saving the model using Joblib
+• Interactive web app built with Streamlit
+• Deployment on Render
+
+This project helped me understand the complete ML workflow:
+Dataset → Model Training → Model Saving → Web App → Cloud Deployment.
+
+🛠 Tech Stack:
+Python | Pandas | Scikit-learn | Streamlit | Joblib | Git | GitHub | Render
+
+🔗 Live App:
+https://library-ml-project.onrender.com
+
+💻 GitHub Repository:
+https://github.com/gayathrithangaraj6125-ctrl/library-ml-project
+
+Proud to take my ML model from local development to a live deployed application!
+
+#MachineLearning #Python #Streamlit #MLOps #DataScience #GitHub #PortfolioProject
+
+
+
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.
 - Focused on improving efficiency and reducing manual work.

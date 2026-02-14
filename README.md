@@ -107,5 +107,5 @@ Proud to take my ML model from local development to a live deployed application!
 
 ## 📫 Contact
 - Email: gayathrithangaraj6125@gmail.com  
-- GitHub: https://github.com/yourusername  
+- GitHub: https://github.com/gayathrithangaraj6125-ctrl  
 - Location: Theni District, Tamil Nadu

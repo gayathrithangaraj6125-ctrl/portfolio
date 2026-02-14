@@ -70,16 +70,8 @@ Tools: Python, Pandas, Dash, Plotly
 
 📚 **Library Book Demand Prediction App — Machine Learning Project**
 
-Excited to share my end-to-end Machine Learning project — from data preprocessing to live deployment! 🚀
-
 I built a **Library Book Demand Prediction App** that predicts book demand based on features like rating, pages, publish year, and review counts.
 
-🔍 What this project includes:
-• Data cleaning and preprocessing
-• Model training using Scikit-learn
-• Saving the model using Joblib
-• Interactive web app built with Streamlit
-• Deployment on Render
 
 This project helped me understand the complete ML workflow:
 Dataset → Model Training → Model Saving → Web App → Cloud Deployment.

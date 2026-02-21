@@ -87,6 +87,18 @@ Proud to take my ML model from local development to a live deployed application!
 #MachineLearning #Python #Streamlit #MLOps #DataScience #GitHub #PortfolioProject
 
 
+### 🎓 Student Performance Analysis
+Data Science project that analyzes student academic performance using Python and Machine Learning.
+
+🔹 Data Cleaning using Pandas  
+🔹 Exploratory Data Analysis (EDA)  
+🔹 Heatmap Visualization  
+🔹 Streamlit Interactive Dashboard  
+
+👉 Project Link:
+https://github.com/gayathrithangaraj6125-ctrl/student-performance-analysis
+
+
 
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.

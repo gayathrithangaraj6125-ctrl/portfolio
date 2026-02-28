@@ -99,6 +99,14 @@ Data Science project that analyzes student academic performance using Python and
 https://github.com/gayathrithangaraj6125-ctrl/student-performance-analysis
 
 
+### 🎬 Movie Rating Analysis Using EDA
+Data Science project that analyzes TMDB 5000 Movies Dataset using Python and Data Visualization.
+🔹 Data Cleaning using Pandas
+🔹 Exploratory Data Analysis (EDA)
+🔹 7 Chart Visualizations using Matplotlib and Seaborn
+🔹 Key Insights on Budget, Revenue and Ratings
+👉 Project Link: https://github.com/gayathrithangaraj6125-ctrl/movie_analysis_using_eda
+
 
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.

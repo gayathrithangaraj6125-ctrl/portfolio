@@ -90,10 +90,10 @@ Proud to take my ML model from local development to a live deployed application!
 ### 🎓 Student Performance Analysis
 Data Science project that analyzes student academic performance using Python and Machine Learning.
 
-🔹 Data Cleaning using Pandas  
-🔹 Exploratory Data Analysis (EDA)  
-🔹 Heatmap Visualization  
-🔹 Streamlit Interactive Dashboard  
+-🔹 Data Cleaning using Pandas  
+-🔹 Exploratory Data Analysis (EDA)  
+-🔹 Heatmap Visualization  
+-🔹 Streamlit Interactive Dashboard  
 
 👉 Project Link:
 https://github.com/gayathrithangaraj6125-ctrl/student-performance-analysis
@@ -101,10 +101,10 @@ https://github.com/gayathrithangaraj6125-ctrl/student-performance-analysis
 
 ### 🎬 Movie Rating Analysis Using EDA
 Data Science project that analyzes TMDB 5000 Movies Dataset using Python and Data Visualization.
-🔹 Data Cleaning using Pandas
-🔹 Exploratory Data Analysis (EDA)
-🔹 7 Chart Visualizations using Matplotlib and Seaborn
-🔹 Key Insights on Budget, Revenue and Ratings
+-🔹 Data Cleaning using Pandas
+-🔹 Exploratory Data Analysis (EDA)
+-🔹 7 Chart Visualizations using Matplotlib and Seaborn
+-🔹 Key Insights on Budget, Revenue and Ratings
 👉 Project Link: https://github.com/gayathrithangaraj6125-ctrl/movie_analysis_using_eda
 
 

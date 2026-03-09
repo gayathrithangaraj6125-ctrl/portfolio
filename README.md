@@ -105,31 +105,32 @@ Data Science project that analyzes TMDB 5000 Movies Dataset using Python and Dat
 -🔹 Exploratory Data Analysis (EDA)
 -🔹 7 Chart Visualizations using Matplotlib and Seaborn
 -🔹 Key Insights on Budget, Revenue and Ratings
+
 👉 Project Link: https://github.com/gayathrithangaraj6125-ctrl/movie_analysis_using_eda
 
 
-🦠 COVID-19 Data Analysis Using Python
+### 🦠 COVID-19 Data Analysis Using Python
 
 Data analysis project that explores global COVID-19 trends using Python and data visualization techniques.
 
-🔹 Data Cleaning and preprocessing using Pandas
-🔹 Exploratory Data Analysis (EDA) on cases, recoveries, and deaths
-🔹 Data visualization using Matplotlib and Seaborn
-🔹 Trend analysis of infection growth and recovery patterns
-🔹 Insights on country-wise COVID-19 impact
+-🔹 Data Cleaning and preprocessing using Pandas
+-🔹 Exploratory Data Analysis (EDA) on cases, recoveries, and deaths
+-🔹 Data visualization using Matplotlib and Seaborn
+-🔹 Trend analysis of infection growth and recovery patterns
+-🔹 Insights on country-wise COVID-19 impact
 
-👉 Project Link: https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME
+👉 Project Link: https://github.com/gayathrithangaraj6125-ctrl/covid_analysis_using-seaborn
 
 
-🤖 AI College Website Chatbot (VCEW Assistant)
+### 🤖 AI College Website Chatbot (VCEW Assistant)
 
 AI-powered chatbot that answers questions about Vivekanandha College of Engineering for Women using website knowledge and Retrieval-Augmented Generation (RAG).
 
-🔹 Built using Dify for chatbot orchestration
-🔹 Website data extracted using Firecrawl
-🔹 AI responses generated using Groq Llama models
-🔹 Knowledge-based Q&A for admissions, departments, placements and contact information
-🔹 Deployed as a web chatbot application
+-🔹 Built using Dify for chatbot orchestration
+-🔹 Website data extracted using Firecrawl
+-🔹 AI responses generated using Groq Llama models
+-🔹 Knowledge-based Q&A for admissions, departments, placements and contact information
+-🔹 Deployed as a web chatbot application
 
 👉 Project Link: https://github.com/gayathrithangaraj6125-ctrl/vcew-ai-chatbot
 

@@ -135,6 +135,14 @@ AI-powered chatbot that answers questions about Vivekanandha College of Engineer
 👉 Project Link: https://github.com/gayathrithangaraj6125-ctrl/vcew-ai-chatbot
 
 
+### 📊 Sales Data Analysis Dashboard
+
+- Built an interactive analytics dashboard using Python, Pandas, Plotly, and Streamlit.
+- Performed exploratory data analysis on retail sales dataset.
+- Created KPI metrics and visualizations for sales, profit, and regional trends.
+- Deployed the dashboard online for real-time access.
+
+Live App:https://sales-data-analysis-dashboard-hrrfhupptkejei79zxypsa.streamlit.app/
 
 
 

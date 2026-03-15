@@ -145,6 +145,11 @@ AI-powered chatbot that answers questions about Vivekanandha College of Engineer
 Live App:https://sales-data-analysis-dashboard-hrrfhupptkejei79zxypsa.streamlit.app/
 
 
+**📊 Tableau Data Analysis Dashboard**
+GitHub: (https://github.com/gayathrithangaraj6125-ctrl/tableau_data_analysis/tree/main)
+
+Developed an **interactive Tableau dashboard** to analyze sales data using data visualization techniques. The dashboard includes **Histogram for sales distribution, Discount Analysis, and a Geographic Map for regional sales performance**, along with filters and interactive features for better exploration. This project demonstrates skills in **data analytics, dashboard design, and visual storytelling using Tableau**.
+
 
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.

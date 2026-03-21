@@ -145,12 +145,13 @@ AI-powered chatbot that answers questions about Vivekanandha College of Engineer
 Live App:https://sales-data-analysis-dashboard-hrrfhupptkejei79zxypsa.streamlit.app/
 
 
-#### 📊 Tableau Data Analysis Dashboard**
+### 📊 Tableau Data Analysis Dashboard**
 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/tableau_data_analysis/tree/main)
 
 Developed an **interactive Tableau dashboard** to analyze sales data using data visualization techniques. The dashboard includes **Histogram for sales distribution, Discount Analysis, and a Geographic Map for regional sales performance**, along with filters and interactive features for better exploration. This project demonstrates skills in **data analytics, dashboard design, and visual storytelling using Tableau**.
 
-#### 📊 Product Sentiment Analyzer & Review Dashboard
+
+### 📊 Product Sentiment Analyzer & Review Dashboard
 
 A web-based application that collects product reviews, performs **sentiment analysis (Positive, Negative, Neutral)** using NLP, and visualizes insights through an interactive dashboard.
 
@@ -169,6 +170,12 @@ Python | Web Scraping | NLP | Pandas | Matplotlib | Streamlit
 • Interactive data visualizations  
 • Real-time analytics dashboard  
 
+
+### 📧 Email Spam Classifier — Machine Learning Project
+
+Developed a Machine Learning-based Email Spam Classifier using Python, NLP (CountVectorizer), Naive Bayes, and Logistic Regression to automatically detect spam vs legitimate messages. Implemented real-time prediction with probability scoring, along with confusion matrix and word cloud visualizations for model evaluation and keyword insights. Achieved high classification accuracy using the SMS Spam Collection dataset and built a lightweight prototype suitable for scalable spam filtering applications.
+
+🔗 GitHub: https://github.com/gayathrithangaraj6125-ctrl/email-spam-classifier/tree/main
 
 
 ### 🍽 Canteen Management System (Ongoing)

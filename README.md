@@ -177,6 +177,16 @@ Developed a Machine Learning-based Email Spam Classifier using Python, NLP (Coun
 
 🔗 GitHub: https://github.com/gayathrithangaraj6125-ctrl/email-spam-classifier/tree/main
 
+### 🌸 Iris Flower Classification Dashboard
+
+Built an interactive Machine Learning dashboard to predict iris flower species using the Iris dataset.
+Visualized key features like Sepal Length, Sepal Width, Petal Length, and Petal Width with histogram, boxplot, violin plot, species comparison charts, and correlation heatmap for better insights.
+Enabled user-based prediction through a Streamlit interface along with dataset summary statistics and dynamic visualization dashboard for exploratory data analysis.
+Tools: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit
+
+🔗 GitHub: https://github.com/gayathrithangaraj6125-ctrl/iris-ml-project
+
+
 
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.

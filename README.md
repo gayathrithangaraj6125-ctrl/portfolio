@@ -187,6 +187,24 @@ Tools: Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Streamlit
 🔗 GitHub: https://github.com/gayathrithangaraj6125-ctrl/iris-ml-project
 
 
+### 🌙 Sleep Quality Predictor — Machine Learning Project
+
+I built a **Sleep Quality Predictor App** that estimates sleep quality based on lifestyle factors like sleep duration, stress level, screen time, physical activity, and caffeine intake. This project helped me understand the complete ML workflow from dataset preprocessing and model training to real-time prediction interface development and cloud deployment using Streamlit. The application also provides personalized suggestions to improve sleep habits and includes a weekly sleep trend visualization dashboard for tracking progress over time.
+
+🛠 Tech Stack:
+Python | Pandas | NumPy | Scikit-learn | Streamlit | Pickle | Matplotlib | Git | GitHub | Streamlit Cloud
+
+💻 GitHub Repository:
+[https://github.com/gayathrithangaraj6125-ctrl/sleep-quality-predictor]
+
+(https://github.com/gayathrithangaraj6125-ctrl/sleep-quality-predictor)
+
+Proud to successfully deploy a healthcare-focused machine learning application from local development to a live interactive web app!
+
+#MachineLearning #Python #Streamlit #DataScience #HealthcareAI #MLProjects #GitHub #PortfolioProject
+
+
+
 
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.

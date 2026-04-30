@@ -203,7 +203,24 @@ Proud to successfully deploy a healthcare-focused machine learning application f
 
 #MachineLearning #Python #Streamlit #DataScience #HealthcareAI #MLProjects #GitHub #PortfolioProject
 
+### Smart Expense Tracker Dashboard
+Built a full-stack web application to manage and analyze personal expenses efficiently. Implemented features like user authentication, expense addition, editing, and deletion with category-based tracking. Integrated smart category prediction based on keywords and visualized data using interactive charts (category-wise, weekly, monthly). Added filters and summary insights for better financial understanding.
 
+Tools: Python, Django, SQLite, HTML, CSS, JavaScript, Chart.js
+
+🔗 GitHub: (https://github.com/gayathrithangaraj6125-ctrl/smart-expense_tracker
+)
+
+### 🚦 Smart Traffic Violation Logger Dashboard
+Built a Flask-based web application to digitally manage and track traffic violations with a real-world workflow for both traffic authorities and the public.
+
+Implemented features for logging violations including vehicle number, violation type, location, date, and fine amount, with automatic status tracking (Unpaid → Paid → Verified). Integrated QR code generation for each challan, allowing users to instantly access their violation details and payment status.
+
+Enabled public search using vehicle numbers to view violations and complete payments, while providing an admin (police) interface for managing records and verifying payments. Generated downloadable PDF challan receipts for completed transactions. Designed a clean and responsive UI for seamless interaction.
+
+Tools: Python, Flask, SQLite, SQLAlchemy, Bootstrap, QRCode, ReportLab
+
+🔗 GitHub: 
 
 
 ### 🍽 Canteen Management System (Ongoing)

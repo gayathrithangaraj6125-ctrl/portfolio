@@ -223,6 +223,18 @@ Tools: Python, Flask, SQLite, SQLAlchemy, Bootstrap, QRCode, ReportLab
 🔗 GitHub: 
 
 
+### Skin Disease Classification Using Deep Learning
+Developed an intelligent image classification system to detect and classify multiple skin diseases using deep learning techniques.
+Trained a Convolutional Neural Network (CNN) model on the HAM10000 dataset for accurate skin condition prediction.
+Applied image preprocessing techniques such as resizing, normalization, and data augmentation to enhance model performance.
+Implemented real-time image upload and prediction, providing disease classification along with confidence scores.
+Designed the system to support early diagnosis and assist healthcare professionals in faster decision-making.
+
+Tools: Python, TensorFlow, Keras, OpenCV, NumPy
+
+🔗GitHub: https://github.com/gayathrithangaraj6125-ctrl/skin_project
+
+
 ### 🍽 Canteen Management System (Ongoing)
 - Currently developing a system to manage food items, orders, and billing in a canteen.
 - Focused on improving efficiency and reducing manual work.
